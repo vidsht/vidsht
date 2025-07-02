@@ -5,19 +5,9 @@
 
 🌀 **Code is my canvas**, and I’m forever chasing that sweet spot between logic and artistry.
 
-Right now, I’m immersed in full-stack development, weaving together clean interfaces and smart backends to build things that don’t just work — they *resonate*. From classroom assistants to interactive maps, I love creating experiences that feel intuitive, purposeful, and maybe even a little magical ✨
+Right now, I’m immersed in full-stack development, weaving together clean interfaces and smart backends to build things that don’t just work — they *resonate*.I love creating experiences that feel intuitive, purposeful, and maybe even a little magical ✨
 
 > *“I don’t just solve problems — I listen to them, redesign their story, and leave a digital echo behind.”*
-
----
-
-### 🚧 what I’ve been building
-- 🎓 **Smart Classroom Manager** – AI + Bluetooth-powered auto-attendance, event alerts & analytics
-- ✅ **Permalist** – A no-fuss, EJS to-do list for getting things done with peace
-- 🌍 **Family Travel Tracker** – World map that visualizes each family member’s travel stories
-- 🎨 **Sundown Studio Clone** – Scroll-based animation + interactive layout = vibe!
-
----
 
 ### 🧰 tools in my tech backpack
 
