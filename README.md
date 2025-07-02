@@ -1,43 +1,11 @@
-<h2 align="center">hey 👋 I'm Vidushi Tiwari</h2>
-<p align="center">a curious builder of digital dreams — one bug, one breakthrough at a time.</p>
+<h1 align="center">Hi I'm Vidushi</h1>
+<h3 align="center">🌀 Code is my canvas, and I’m forever chasing that sweet spot between logic and artistry. Right now, I’m immersed in full-stack development, weaving together clean interfaces and smart backends to build things that don’t just work — they resonate.I love creating experiences that feel intuitive, purposeful, and maybe even a little magical ✨ “I don’t just solve problems — I listen to them, redesign their story, and leave a digital echo behind.”</h3>
 
----
+- Projects that solved problems — and told stories. [https://streakily-seven.vercel.app/](https://jobhunter-8l3n.onrender.com/)
 
-🌀 **Code is my canvas**, and I’m forever chasing that sweet spot between logic and artistry.
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
 
-Right now, I’m immersed in full-stack development, weaving together clean interfaces and smart backends to build things that don’t just work — they *resonate*.I love creating experiences that feel intuitive, purposeful, and maybe even a little magical ✨
-
-> *“I don’t just solve problems — I listen to them, redesign their story, and leave a digital echo behind.”*
-
-### 🧰 tools in my tech backpack
-
-**Languages I speak fluently (both human & machine):**  
-`C++` · `Python` · `JavaScript` · `TypeScript` · `HTML` · `CSS`
-
-**My creative toolkit:**  
-`ReactJS` · `Tailwind CSS` · `Node.js` · `Express`  
-`MongoDB` · `MySQL` · `Firebase` · `Git` · `Vercel`  
-`NumPy` · `Pandas` · `Matplotlib` · `Jupyter` · `PyGame`
-
-**Where thoughts become things:**  
-Notion · VSCode · Figma · Whiteboards (and sticky notes... lots of them)
-
----
-
-### 🔍 currently exploring
-- The art of *clean and clever* UI design  
-- Making React hooks dance 🌀  
-- AI x Web mashups  
-- Backend patterns that scale like poetry
-
----
-
-### 💬 let’s collide
-I'm all in for techy talks, collab dreams, or building something cool from scratch.  
-If any of this sparked a thought in your mind, don’t be shy — I’m just a `console.log("hello 🌍")` away.
-
-> *Build with intention. Code with care. Ship with soul.*
-
----
-
-<p align="center"><i>Here to leave the web a little more beautiful, functional, and human than I found it.</i></p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
