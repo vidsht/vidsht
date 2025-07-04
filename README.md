@@ -1,9 +1,85 @@
-<h1 align="center">Hi I'm Vidushi</h1>
-<h3 align="center">🌀 Code is my canvas, and I’m forever chasing that sweet spot between logic and artistry. 
-Currently, I’m immersed in full-stack development, weaving together clean interfaces and intelligent backends to build things that don’t just work — they resonate. I love creating experiences that feel intuitive, purposeful, and maybe even a little magical 
-  ✨ “I don’t just solve problems — I listen to them, redesign their story, and leave a digital echo behind.”</h3>
+<!-- 👋 Welcome GIF Banner -->
+<img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" alt="Hey, welcome to my GitHub space!" />
 
-- Projects that solved problems — and told stories. [https://streakily-seven.vercel.app/] [(https://jobhunter-8l3n.onrender.com/)]
+<div align="center">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<!-- 🧕🏻 Who is Vidushi? -->
+<div align="justify">
+
+<h3>👩🏻‍💻 Hi, I’m Vidushi — I write code that (usually) doesn’t crash.</h3>
+
+I don’t just write code, I translate curiosity into clean solutions. By day, I’m diving into codebases and transforming ideas into intuitive experiences. By night, I’m either breaking down bugs, learning something new, or building products that reflect both logic and soul.
+
+I’m someone who values both structure and subtle flair — a minimalist when it comes to design, but a maximalist when it comes to impact. If you're into problem-solving with a dash of creative energy, welcome to my digital space 🌱
+
+</div>
+</div>
+
+---
+<h2 align="left">🧠 Tools & Tech I speak fluently</h2>
+
+<!-- 💻 Programming Languages -->
+<h3>💻 Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++"/>
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python"/>
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript"/>
+</p>
+
+<!-- 🧩 Frontend Technologies -->
+<h3>🎨 Frontend</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React"/>
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="Redux"/>
+  <img src="https://img.shields.io/badge/Shadcn_UI-%230d1117.svg?style=flat&logo=none&logoColor=white&labelColor=0d1117" height="25" alt="Shadcn UI"/>
+</p>
+
+<!-- 🔧 Backend & Server -->
+<h3>⚙️ Backend & Server</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js"/>
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/Multer-%230d1117?style=flat&logo=none&logoColor=white&labelColor=0d1117" height="25" alt="Multer"/>
+  <img src="https://img.shields.io/badge/Cloudinary-%230d1117?style=flat&logo=cloudinary&logoColor=blue" height="25" alt="Cloudinary"/>
+</p>
+
+<!-- 🛢️ Backend-as-a-Service -->
+<h3>🌐 BaaS / Auth</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Supabase-%230d1117?style=flat&logo=supabase&logoColor=3ECF8E" height="25" alt="Supabase"/>
+  <img src="https://img.shields.io/badge/Clerk-%230d1117?style=flat&logo=clerk&logoColor=white" height="25" alt="Clerk"/>
+</p>
+
+<!-- 🛠️ Tools & Workflow -->
+<h3>🔧 Tools & Workflow</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git"/>
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="Notion"/>
+</p>
+
+
+<!-- 🚀 Social Buttons -->
+<h2 align="center"> 
+  <a href="www.linkedin.com/in/vidushi-tiwari-43ba331bb">
+    <img src="https://img.shields.io/badge/LinkedIn-%230d1117.svg?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+  </a>
+  <a href="https://leetcode.com/u/vidsh_11/">
+    <img src="https://img.shields.io/badge/LeetCode-%230d1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+  </a>
+  <a href="mailto:tvidushi1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%230d1117?style=for-the-badge&logo=gmail&logoColor=D14836" />
+  </a>
+</h2>
+
+<!-- 👀 Profile View Count -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vidushi-ti&style=flat-square&color=0d1117" alt="Profile views" />
+</p>
