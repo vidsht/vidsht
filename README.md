@@ -1,70 +1,119 @@
-<!-- 👋 Welcome GIF Banner -->
-<img src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" alt="Hey, welcome to my GitHub space!" />
-
 <div align="center">
+<!-- 👋 Welcome GIF Banner -->
+<img align="center" src="https://media.giphy.com/media/l0MYGb1LuZ3n7dRnO/giphy.gif" alt="Hey, welcome to my GitHub space!" />
 
 <!-- 🧕🏻 Who is Vidushi? -->
 <div align="justify">
 
-<h3>👩🏻‍💻 Hi, I’m Vidushi — I write code that (usually) doesn’t crash.</h3>
+<h1>👩🏻‍💻 Hi, I’m Vidushi — I write code that (usually) doesn’t crash.</h1>
 
 I don’t just write code, I translate curiosity into clean solutions. By day, I’m diving into codebases and transforming ideas into intuitive experiences. By night, I’m either breaking down bugs, learning something new, or building products that reflect both logic and soul.
 
-I’m someone who values both structure and subtle flair — a minimalist when it comes to design, but a maximalist when it comes to impact. If you're into problem-solving with a dash of creative energy, welcome to my digital space 🌱
-
+I’m someone who values both structure and subtle flair — a minimalist when it comes to design, but a maximalist when it comes to impact.
 </div>
 </div>
 
 ---
-<h2 align="left">🧠 Tools & Tech I speak fluently</h2>
+<h2 align="left">🧠 Tools & Tech I Speak Fluently</h2>
 
-<!-- 💻 Programming Languages -->
-<h3>💻 Languages</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="C++"/>
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="Python"/>
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript"/>
-</p>
+<table align="center">
+  <!-- Section Headers -->
+  <tr>
+    <th colspan="5" align="center">Languages</th>
+    <th colspan="5" align="center">Frontend</th>
+  </tr>
 
-<!-- 🧩 Frontend Technologies -->
-<h3>🎨 Frontend</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React"/>
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="Vite"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="Tailwind CSS"/>
-  <img src="https://skillicons.dev/icons?i=redux" height="30" alt="Redux"/>
-  <img src="https://img.shields.io/badge/Shadcn_UI-%230d1117.svg?style=flat&logo=none&logoColor=white&labelColor=0d1117" height="25" alt="Shadcn UI"/>
-</p>
+  <!-- Languages & Frontend -->
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=cpp" height="30" /><br/>C++
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" height="30" /><br/>Python
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" height="30" /><br/>HTML
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" height="30" /><br/>CSS
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=js" height="30" /><br/>JavaScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" height="30" /><br/>React
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=ts" height="30" /><br/>TypeScript
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" height="30" /><br/>Vite
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=tailwind" height="30" /><br/>Tailwind
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=redux" height="30" /><br/>Redux
+    </td>
+  </tr>
 
-<!-- 🔧 Backend & Server -->
-<h3>⚙️ Backend & Server</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="Express.js"/>
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/Multer-%230d1117?style=flat&logo=none&logoColor=white&labelColor=0d1117" height="25" alt="Multer"/>
-  <img src="https://img.shields.io/badge/Cloudinary-%230d1117?style=flat&logo=cloudinary&logoColor=blue" height="25" alt="Cloudinary"/>
-</p>
+  <!-- Backend & BaaS -->
+  <tr>
+    <th colspan="5" align="center">Backend</th>
+    <th colspan="5" align="center">BaaS / Auth</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" height="30" /><br/>Node.js
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=express" height="30" /><br/>Express
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mongodb" height="30" /><br/>MongoDB
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Multer-%230d1117?style=flat&logo=none&logoColor=white" height="25"/><br/>Multer
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Cloudinary-%230d1117?style=flat&logo=cloudinary&logoColor=blue" height="25"/><br/>Cloudinary
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Firebase-%230d1117?style=flat&logo=firebase&logoColor=yellow" height="25"/><br/>Firebase
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Supabase-%230d1117?style=flat&logo=supabase&logoColor=3ECF8E" height="25"/><br/>Supabase
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Clerk-%230d1117?style=flat&logo=clerk&logoColor=white" height="25"/><br/>Clerk
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Shadcn_UI-%230d1117?style=flat&logo=none&logoColor=white" height="25"/><br/>Shadcn UI
+    </td>
+    <td align="center"> </td>
+  </tr>
 
-<!-- 🛢️ Backend-as-a-Service -->
-<h3>🌐 BaaS / Auth</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/Supabase-%230d1117?style=flat&logo=supabase&logoColor=3ECF8E" height="25" alt="Supabase"/>
-  <img src="https://img.shields.io/badge/Clerk-%230d1117?style=flat&logo=clerk&logoColor=white" height="25" alt="Clerk"/>
-</p>
-
-<!-- 🛠️ Tools & Workflow -->
-<h3>🔧 Tools & Workflow</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git"/>
-  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="Vercel"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma"/>
-  <img src="https://skillicons.dev/icons?i=notion" height="30" alt="Notion"/>
-</p>
-
+  <!-- Tools & Workflow -->
+  <tr>
+    <th colspan="5" align="center">Workflow & Tools</th>
+  </tr>
+    <td align="center"> 
+      <img src="https://img.shields.io/badge/Render-%230d1117?style=flat&logo=render&logoColor=white" height="30"/><br/>Render
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git" height="30"/><br/>Git
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vercel" height="30"/><br/>Vercel
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=figma" height="30"/><br/>Figma
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=notion" height="30"/><br/>Notion
+    </td>
+      </tr>
+</table>
 
 <!-- 🚀 Social Buttons -->
 <h2 align="center"> 
